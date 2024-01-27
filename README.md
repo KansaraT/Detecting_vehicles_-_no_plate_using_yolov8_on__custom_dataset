@@ -1,1 +1,1 @@
-# Detecting_vehicles_-_no_plate_using_yolov8_on__custom_dataset
+# Detecting vehicles and its no plate using yolov8 on custom dataset
