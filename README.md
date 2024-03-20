@@ -35,9 +35,6 @@ Now, using sample_out_mp4.mp4 video to get detections on the vehicles as well us
 !yolo task=detect mode=predict model=yolov8n.pt source=/content/sample_out_mp4.mp4
 ```
 
-Results on validation dataset
-![val_batch2_labels](https://github.com/KansaraT/Detecting_vehicles_-_no_plate_using_yolov8_on__custom_dataset/assets/91043060/16274138-4671-42b5-aca3-1804ded7f6b7)
-
 
 Results on a video
 
